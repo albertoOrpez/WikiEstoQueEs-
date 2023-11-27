@@ -1,0 +1,432 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0",
+        "MEDIUM": "layout_2",
+        "SMALL": "layout_4"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Página"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "68.7%",
+            "top": "0.0%",
+            "bottom": "49.1%",
+            "width": "100.00%",
+            "height": "100.00%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "3.8%",
+            "right": "68.5%",
+            "top": "1.0%",
+            "bottom": "13.3%",
+            "width": "27.7%",
+            "height": "85.7%"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_2": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "68.7%",
+            "top": "0.0%",
+            "bottom": "49.1%",
+            "width": "100.00%",
+            "height": "100.00%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_3": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "7.8%",
+            "right": "25.9%",
+            "top": "0.7%",
+            "bottom": "13.6%",
+            "width": "66.3%",
+            "height": "85.7%"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_4": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "5.2%",
+            "top": "6.5%",
+            "bottom": "9.3%",
+            "width": "94.8%",
+            "height": "84.2%"
+          },
+          "widgetId": "widget_3",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      }
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "label": "Primero",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_2",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "label": "Segundo"
+    }
+  },
+  "exbVersion": "1.12.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.12.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": false,
+          "canSearch": true,
+          "canNavigation": true,
+          "canCompass": false,
+          "canLayers": false,
+          "canMeasure": false,
+          "canLocate": false
+        },
+        "isUseCustomMapState": false,
+        "initialMapState": null,
+        "layoutIndex": 0
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1",
+          "MEDIUM": "layout_3",
+          "SMALL": "layout_5"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_2": {
+      "uri": "widgets/WikiEstoQueEs/",
+      "version": "1.12.0",
+      "label": "WikiEstoQueEs? (Function)",
+      "config": {
+        "icon3D": "cube",
+        "icon3DColor": "#FF0000",
+        "iconSymbol2DSize": 32,
+        "iconSymbol3DSize": 10,
+        "objectSymbol3DSize": 5,
+        "minWorldLength": 50,
+        "maxWorldLength": 100,
+        "screenLength": 12,
+        "lineCallout3DColor": "#000000",
+        "lineCallout3DSize": 1.5,
+        "defaultZoomLevel": 10,
+        "defaultTilt": 45,
+        "debugEnabled": true,
+        "icon2D": {
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" d=\"M6.82 9.092a8.435 8.435 0 0 0 3.042 1.867l1.55-1.17a.286.286 0 0 1 .312 0l2.877 1.758c.11.063.202.148.27.25a.753.753 0 0 1 .076.693.78.78 0 0 1-.21.297L13.39 14.05c-.193.18-.43.314-.691.386a1.73 1.73 0 0 1-.802.031c-2.65-.52-5.093-1.735-7.05-3.508-1.913-1.791-3.237-4.07-3.81-6.56a1.4 1.4 0 0 1 .034-.749c.079-.242.223-.461.417-.636l1.398-1.278a.828.828 0 0 1 .309-.19.864.864 0 0 1 .712.07.803.803 0 0 1 .262.245l1.916 2.693a.237.237 0 0 1 0 .293L4.82 6.285A7.691 7.691 0 0 0 6.82 9.092Z\"></path></svg>",
+          "properties": {
+            "filename": "Teléfono",
+            "originalName": "filled/application/phone.svg",
+            "path": [
+              "general",
+              "phone"
+            ],
+            "isUploaded": false,
+            "inlineSvg": true
+          }
+        }
+      },
+      "id": "widget_2",
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "style": {
+        "background": {
+          "color": "var(--light-100)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "label": "Barra lateral",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "329px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_3",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_6"
+        },
+        "SECOND": {
+          "SMALL": "layout_7"
+        }
+      }
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "MapaWikiEstoQueES",
+      "itemId": "649311686ff748258951fb2217221f84",
+      "portalUrl": "https://alej6emj9eaf6wwq.maps.arcgis.com"
+    }
+  },
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://alej6emj9eaf6wwq.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "WikiQueEs?",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": null,
+  "originExbVersion": "1.12.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1701086091183
+}

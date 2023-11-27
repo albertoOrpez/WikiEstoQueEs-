@@ -1,0 +1,15 @@
+{
+    "icon3D": "sphere",
+    "icon3DColor": "#FF0000",
+    "iconSymbol2DSize": 32,
+    "iconSymbol3DSize": 10,
+    "objectSymbol3DSize": 5,
+    "minWorldLength": 50,
+    "maxWorldLength": 100,
+    "screenLength": 12,
+    "lineCallout3DColor": "#000000",
+    "lineCallout3DSize": 1.5,
+    "defaultZoomLevel": 10,
+    "defaultTilt": 45,
+    "debugEnabled": false
+}

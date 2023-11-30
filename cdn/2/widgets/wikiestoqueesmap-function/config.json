@@ -1,0 +1,7 @@
+{
+  "streamLayerTitle": "LABus",
+  "idField": "id",
+  "timeField": "received_time",
+  "scaleChangeLabel": 536032,
+  "multiLabel": true
+}

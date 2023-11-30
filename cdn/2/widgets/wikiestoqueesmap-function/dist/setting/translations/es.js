@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({selectMapWidget:"Selecionar Map Widget",configureStreamLayer:"Configurar Stream Layer",streamLayerTitle:"Título del Stream Layer",idField:"Campo id",timeField:"Campo tiempo",scaleChangeLabel:"Escala Cambio de Etiqueta",multiLabel:"Multilabel"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(r){return{execute:function(){r({_widgetLabel:"Stream Layer (Function)",filtroStrmLy:"Filtro Stream Layer",ponerFiltro:"Poner filtro",borrarFiltro:"Borrar filtro",ponerSimbolo:"Poner simbolo"})}}}));
